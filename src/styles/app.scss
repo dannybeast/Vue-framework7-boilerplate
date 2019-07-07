@@ -1,0 +1,22 @@
+// custom app styles
+
+@import 'vars';
+
+//
+.navbar{
+  background: var(--f7-theme-color);
+  color: #fff;
+  a{
+    color: #fff;
+  }
+}
+//-
+
+//
+.page-content{
+  img{
+    max-width: 100%;
+    display: block;
+  }
+}
+//-
